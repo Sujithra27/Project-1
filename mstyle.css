@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 Sep, 2019, 3:08:12 AM
+    Author     : USER1
+*/
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://www.barraques.cat/pngfile/big/97-975784_pixabay-professional-free-linkedin-background.jpg) no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: gold;
+    font-family: sans-serif;
+}
+input{
+    position: absolute;
+    font-family: "Roboto",sans-serif;
+    outline: 1;
+    background: greenyellow;
+    top: 5%;
+    right: 14%;
+    width: -25%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+table {
+    width: 1325px;
+    margin: auto;
+    text-align: center;
+    table-layout: fixed;
+  }
+  table tr,th,td{
+  padding: 20px;
+  color: white;
+  border: 1px solid #080808;
+  border-collapse: collapse;
+  font-size: 18px;
+  font-family: aerial;
+  background: linear-gradient(top, #3c3c3c 0%, #222222 100%);
+  background: -webkit-linear-gradient(top, #3c3c3c 0%, #222222 100%);
+  }      
+  td:hover{
+      background: orange;
+      
+  }
+  table td a{
+      color: yellow;
+  }
+  
+
+ button
+ {font-family: serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: blue;
+    width: 5%;
+    border: 0;
+    padding: 15px;
+    color: black;
+    font-size: 16px;}
+   
+ 
